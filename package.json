@@ -1,0 +1,14 @@
+{
+  "name": "crwal_website",
+  "version": "1.0.0",
+  "description": "Website crwaler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "varma",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.1.3"
+  }
+}
