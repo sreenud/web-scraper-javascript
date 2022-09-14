@@ -4,7 +4,7 @@ const puppeteer = require('puppeteer');
 	const browser = await puppeteer.launch({ headless: false });
 
 	const page = await browser.newPage();
-	await page.goto('https://www.megabad.com/keuco-ixmo-flat-waschtisch-black-selection-a-1621735.htm');
+	await page.goto('https://www.xxxx.com/');
 
 	await page.waitForSelector('#article-details');
 	
